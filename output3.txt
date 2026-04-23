@@ -1,0 +1,8 @@
+Insertion Sort Test: [1, 2, 5, 5, 6, 9]
+Merge Sort Test: [1, 2, 5, 5, 6, 9]
+Quick Sort Test: [1, 2, 5, 5, 6, 9]
+
+Size: 1000, Type: Random
+Insertion Sort: 120.45 ms
+Merge Sort: 5.23 ms
+Quick Sort: 3.11 ms
